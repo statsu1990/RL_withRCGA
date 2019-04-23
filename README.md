@@ -11,7 +11,7 @@ In this reinforcement learning method, the policy expressed by deep neural netwo
 I applied this method to OpenAI Gym Pendulum-v0.
 https://github.com/openai/gym/wiki/Pendulum-v0
 
-The result are as follows.
+The result are as follows.<br>
 ![mrc](https://github.com/statsu1990/RL_withRCGA/blob/master/result/Pendulum-v0_2019-04-23-02-26-57.gif)<br>
 ![mrc](https://github.com/statsu1990/RL_withRCGA/blob/master/result/%E4%B8%96%E4%BB%A3vs%E8%A9%95%E4%BE%A1.png)<br>
 ![mrc](https://github.com/statsu1990/RL_withRCGA/blob/master/result/%E4%B8%96%E4%BB%A3vs%E5%A4%9A%E6%A7%98%E6%80%A7.png)<br>
